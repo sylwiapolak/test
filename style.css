@@ -8,6 +8,7 @@ body {
 	height: 100vh;
 	font-family: 'Ubuntu', sans-serif;
 	color: #fff;
+	width: 50px;
 	background-color: #ddd;
 	overflow: hidden;
 }
